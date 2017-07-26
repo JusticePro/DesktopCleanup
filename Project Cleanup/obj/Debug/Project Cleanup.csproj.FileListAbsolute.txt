@@ -1,0 +1,9 @@
+c:\users\pcs for people\documents\visual studio 2015\Projects\Project Cleanup\Project Cleanup\bin\Debug\Project Cleanup.exe.config
+c:\users\pcs for people\documents\visual studio 2015\Projects\Project Cleanup\Project Cleanup\bin\Debug\Project Cleanup.exe
+c:\users\pcs for people\documents\visual studio 2015\Projects\Project Cleanup\Project Cleanup\bin\Debug\Project Cleanup.pdb
+c:\users\pcs for people\documents\visual studio 2015\Projects\Project Cleanup\Project Cleanup\obj\Debug\Project Cleanup.csprojResolveAssemblyReference.cache
+c:\users\pcs for people\documents\visual studio 2015\Projects\Project Cleanup\Project Cleanup\obj\Debug\Project_Cleanup.Form1.resources
+c:\users\pcs for people\documents\visual studio 2015\Projects\Project Cleanup\Project Cleanup\obj\Debug\Project_Cleanup.Properties.Resources.resources
+c:\users\pcs for people\documents\visual studio 2015\Projects\Project Cleanup\Project Cleanup\obj\Debug\Project Cleanup.csproj.GenerateResource.Cache
+c:\users\pcs for people\documents\visual studio 2015\Projects\Project Cleanup\Project Cleanup\obj\Debug\Project Cleanup.exe
+c:\users\pcs for people\documents\visual studio 2015\Projects\Project Cleanup\Project Cleanup\obj\Debug\Project Cleanup.pdb
