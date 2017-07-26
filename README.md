@@ -9,7 +9,7 @@ It will be named the file type of the file.<br>
 Folders will be moved into a folder called ".folders" in "Master Folder".<br>
 <h1>How do I use it?</h1>
 This application is very simple to use. When you open it there is a window with a button that is called "Clean UP".<br>
-Press the clean up button. Done!<br
+Press the clean up button. Done!<br>
 <h1>What did I learn while making this?</h1> 
 <ul>
 <li>How to create folders</li>
