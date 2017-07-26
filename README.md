@@ -1,8 +1,8 @@
-# Desktop Cleanup Utility
+# Desktop CleanUP Utility
 <h1>Download</h1>
 You can download this <a href="https://github.com/JusticePro/DesktopCleanup/releases">here</a>!<br>
 <h1>What does it do?</h1>
-Desktop Cleanup Utility (DCU for Short) is an application I created to quickly and simply clean and organize my files on my desktop.<br>
+Desktop CleanUP Utility (DCU for Short) is an application I created to quickly and simply clean and organize my files on my desktop.<br>
 <br>
 A folder will be created called "Master Folder".<br>
 For each file on the desktop a folder will be created (if the folder does not exist) in "Master Folder".<br>
