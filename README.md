@@ -12,5 +12,9 @@ This application is very simple to use. When you open it there is a window with 
 Press the clean up button. Done!<br
 <h1>What did I learn while making this?</h1> 
 <ul>
-hi
+<li>How to create folders</li>
+<li>How to list files.</li>
+<li>How to move, copy; files and folders.</li>
+<li>How to manager files and folders.</li>
+<li>How to fix a problem with software.</li>
 </ul>
