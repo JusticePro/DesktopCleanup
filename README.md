@@ -1,1 +1,1 @@
-# DesktopCleanup
+# Desktop Cleanup <i>Utility</i>
