@@ -14,7 +14,7 @@ Folders will be moved into a folder called ".folders" in "Master Folder".<br>
 This application is very simple to use. When you open it there is a window with a button that is called "Clean UP".<br>
 Press the clean up button. Done!<br>
 <br>
-<img src="https://raw.githubusercontent.com/JusticePro/DesktopCleanup/master/image.png"></img>
+<img src="https://raw.githubusercontent.com/JusticePro/DesktopCleanup/master/window.png"></img>
 <h1>What did I learn while making this?</h1> 
 <ul>
 <li>How to create folders</li>
