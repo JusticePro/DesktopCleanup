@@ -3,7 +3,7 @@
 <h1>Download</h1>
 You can download this <a href="https://github.com/JusticePro/DesktopCleanup/releases">here</a>!<br>
 <h1>What Langauge Did I use?</h1>
-<h2>C#</h2>
+<h1>C#</h1>
 <h1>What does it do?</h1>
 Desktop CleanUP Utility (DCU for Short) is an application I created to quickly and simply clean and organize my files on my desktop.<br>
 <br>
